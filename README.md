@@ -1,4 +1,8 @@
-## Try it
+## Json file link of current Repository
+
+[https://github.com/aasthasingh14/shopNow/products](https://my-json-server.typicode.com/aasthasingh14/shopNow/products)
+
+## Try this to create your own json
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
